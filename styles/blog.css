@@ -2,4 +2,7 @@ div{
     background-color: darkolivegreen;
     padding: 10px;
     margin-bottom: 10px;
+    border: 5px solid thistle;
+    border-radius: 3px;
+    box-shadow: 10px 20px 30px;
 }
